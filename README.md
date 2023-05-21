@@ -1,2 +1,2 @@
-# Custome--Segmentation
+# Customer-Segmentation
 Customer Segmentation based on Credit Card Usage (using K-means Clustering and PCA)
